@@ -18,7 +18,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://s11.ax1x.com/2023/12/21/piTYUR1.png" align="center" style="width: 160px;height:138px;" />
+<img src="https://s11.ax1x.com/2023/12/21/piTYUR1.png" align="center" style="width: 320px;height:276px;" />
 </div>  
 
 
