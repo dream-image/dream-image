@@ -52,6 +52,8 @@
 </div>
 <br />
 
+- 学，你怎么还不快学？新技术都出来多久了！！！
+- 别急，很快拿捏👌
 ----
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dream-image&layout=compact)
 
