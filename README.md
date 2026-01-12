@@ -1,6 +1,6 @@
 ## Welccome  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dream-image&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dream-image&theme=transparent)
 
 
 ## Rapidfire  
@@ -29,7 +29,6 @@
 
 ## 技术栈
 <div align="center">  
-
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="60" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a>  
@@ -56,5 +55,5 @@
 - 学，你怎么还不快学？新技术都出来多久了！！！
 - 别急，很快拿捏👌
 ----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dream-image&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dream-image)
 
